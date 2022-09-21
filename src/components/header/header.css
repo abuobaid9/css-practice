@@ -1,13 +1,13 @@
 header {
-    height: 150vh;
+    /* height: 150vh; */
     padding-top: 7rem;
     overflow: hidden;
 }
 
 .header__container {
     text-align: center;
-    height: 100%;
-    position: relative;
+    /* height: 100%; */
+    /* position: relative; */
 }
 
 /*========= CTA ================*/
@@ -65,21 +65,21 @@ header {
 
 /*==========Media Quries (Medium Devices)============ */
 
-
+/* 
 @media screen and (max-width:1024px) {
     header {
         height: 68vh;
     }
 
-}
+} */
 
 /*==========Media Quries (Small Devices)============ */
 
 
 @media screen and (max-width:600px) {
-    header {
+    /* header {
         height: 100vh;
-    }
+    } */
 
     .header__socials,
     .scroll__down {
