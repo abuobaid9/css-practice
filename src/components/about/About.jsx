@@ -36,7 +36,7 @@ const About = () => {
             {/* <small>+200 Worldwide</small> */}
           </article>
           </a>
-          <a href="#portfolio" >
+          <a href="#contact" >
           <article className='about__card'>
             <RiMessengerLine className='about__icon'/>
             <h5>Contact</h5>
