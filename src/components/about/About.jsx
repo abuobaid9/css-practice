@@ -44,11 +44,14 @@ const About = () => {
               </article>
             </a>
           </div>
-          <p>I'm a Junior Full-Stack Developer with
-            over 6 months of experience in the
-            field. Focused on building websites
-            using the newest technologies &
-            tools.
+          <p>A motivated individual with in-depth
+            knowledge of javascript and
+            development tools, seeking a
+            position in a growth-oriented
+            company where I can use my skills
+            to the advantage of the company
+            while having the scope to develop
+            my own skills.
 
           </p>
           {/* <a href="#contact" className='btn btn-primary'> Let's Talk</a> */}

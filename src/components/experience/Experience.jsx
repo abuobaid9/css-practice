@@ -48,13 +48,7 @@ const Experience = () => {
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill  className='experience__detalis-icon'/>
-              <div>
-                <h4>Git/Github</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
+          
             <article className='experience__details'>
               <BsFillPatchCheckFill  className='experience__detalis-icon'/>
               <div>
@@ -66,6 +60,13 @@ const Experience = () => {
               <BsFillPatchCheckFill  className='experience__detalis-icon'/>
               <div>
                 <h4>SASS</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill  className='experience__detalis-icon'/>
+              <div>
+                <h4>Git/Github</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -85,8 +86,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill  className='experience__detalis-icon'/>
               <div>
-                <h4>REST APIs</h4>
-                <small className='text-light'>Intermediate</small>
+                <h4>postgres</h4>
+                <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
@@ -99,21 +100,21 @@ const Experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill  className='experience__detalis-icon'/>
               <div>
-                <h4>SQL Databases</h4>
+                <h4>REST APIs</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
+            {/* <article className='experience__details'>
+              <BsFillPatchCheckFill  className='experience__detalis-icon'/>
+              <div>
+                <h4>SQL Databases</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article> */}
             <article className='experience__details'>
               <BsFillPatchCheckFill  className='experience__detalis-icon'/>
               <div>
                 <h4>Socket.io</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
-            <article className='experience__details'>
-              <BsFillPatchCheckFill  className='experience__detalis-icon'/>
-              <div>
-                <h4>postgres</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -124,13 +125,27 @@ const Experience = () => {
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
-             <article className='experience__details'>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill  className='experience__detalis-icon'/>
+              <div>
+                <h4>Debugging</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <BsFillPatchCheckFill  className='experience__detalis-icon'/>
+              <div>
+                <h4>Deployment</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+             {/* <article className='experience__details'>
               <BsFillPatchCheckFill  className='experience__detalis-icon'/>
               <div>
                 <h4>Jest</h4>
                 <small className='text-light'>Experienced</small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
       </div>
