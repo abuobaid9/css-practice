@@ -6,16 +6,18 @@ import Img3 from '../../assets/resty.png'
 import Img4 from '../../assets/chatnode.png'
 import Img5 from '../../assets/server.jpeg'
 import Img6 from '../../assets/todo.png'
+import Img7 from '../../assets/cryptoverse.png'
 
 
 let data = [
   {
     id: 1,
-    image: Img1,
-    title: "Shopping Cart",
-    github: "https://github.com/abuobaid9/shopping-cart#readme",
-    description: "Shopping Cart using React.js and Context API with useReducer Hook for State Management.Add Filter Product Functionality ",
-    demo: "https://keen-mochi-3f1000.netlify.app/"
+ 
+    image: Img2,
+    title: "ECommerce App",
+    github: "https://github.com/abuobaid9/storefront/blob/main/README.md",
+    description: "ECommerce App using React JS and Redux with Using Fetch API to Get Products Data. Add Filter Product Functionality to Filter Products and Use Skeleton Loading When Calling API.",
+    demo: "https://scintillating-sunburst-7c7cb1.netlify.app/"
   },
   {
     id: 2,
@@ -26,15 +28,23 @@ let data = [
     demo: "https://abuobaid9.github.io/resty/"
   },
   {
-    id: 3,
-    image: Img2,
-    title: "ECommerce App",
-    github: "https://github.com/abuobaid9/storefront/blob/main/README.md",
-    description: "ECommerce App using React JS and Redux with Using Fetch API to Get Products Data. Add Filter Product Functionality to Filter Products and Use Skeleton Loading When Calling API.",
-    demo: "https://scintillating-sunburst-7c7cb1.netlify.app/"
+    id:3 ,
+    image: Img7,
+    title: "Cryptoverse",
+    github: "https://github.com/abuobaid9/cryptocurrency#readme",
+    description: "Cryptoverse is a platform that provides detailed information about different cryptocurrencies Using React.js ,Redux ,Chart.js and designed by Ant Design ",
+    demo: "https://cryptoverse-anas.netlify.app/"
   },
   {
     id: 4,
+    image: Img1,
+    title: "Shopping Cart",
+    github: "https://github.com/abuobaid9/shopping-cart#readme",
+    description: "Shopping Cart using React.js and Context API with useReducer Hook for State Management.Add Filter Product Functionality ",
+    demo: "https://keen-mochi-3f1000.netlify.app/"
+  },
+  {
+    id: 5,
     image: Img4,
     title: " ChatCord",
     github: "https://github.com/abuobaid9/chat-app#readme",
@@ -42,7 +52,7 @@ let data = [
     demo: "https://anas-chat.herokuapp.com/"
   },
   {
-    id: 5,
+    id: 6,
     image: Img5,
     title: "Auth-Api",
     github: "https://github.com/abuobaid9/auth-api#readme",
@@ -50,7 +60,7 @@ let data = [
     demo: "https://anas-auth-server.herokuapp.com/"
   },
   {
-    id: 6,
+    id: 7,
     image: Img6,
     title: "ToDo List",
     github: "https://github.com/abuobaid9/todo-app#readme",
