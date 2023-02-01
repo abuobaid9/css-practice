@@ -49,7 +49,7 @@ let data = [
     title: " ChatCord",
     github: "https://github.com/abuobaid9/chat-app#readme",
     description: "Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI.",
-    demo: "https://anas-chat.herokuapp.com/"
+    demo: "https://live-chat-app-fzzn.onrender.com"
   },
   {
     id: 6,
